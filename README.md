@@ -1,6 +1,9 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Ajay+Kumar+Pujari;IoT+%26+Embedded+Systems+Engineer;Hardware-Software+Integration+Enthusiast;Building+Smart+Connected+Devices" alt="Typing SVG" />
 </h1>
+<p align="center">
+  <img src="./profile.png" width="170">
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ajaypujari&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
@@ -84,13 +87,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ajaypujari&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170"/>
+ 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajaypujari&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajaypujari&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages"/>
-</p>
+
 
 ---
 
